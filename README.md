@@ -49,6 +49,12 @@ https://github.com/huggingface/transformers/pull/3180
 
 https://github.com/kylemcdonald/nvidia-co2/pull/4/
 
+- PyTorchLightning
+
+https://github.com/PyTorchLightning/pytorch-lightning/pull/1128
+
+https://github.com/PyTorchLightning/pytorch-lightning/pull/1094
+
 - data2text repo for Rotowire dataset
 
 https://github.com/ratishsp/data2text-1/pull/1
