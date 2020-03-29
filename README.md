@@ -14,3 +14,18 @@ Commit history: https://docs.google.com/spreadsheets/d/13n9lQ_xH-jH_YrQU1EGM7rFt
 Last commit: https://github.com/shubhamagarwal92/pecan/commit/fbc8a25eef2dde5b873555df6a638babb7d6f869
 
 Final PR: https://github.com/PecanProject/pecan/pull/1594
+
+- Alana - Alexa Challenge 2018
+
+All code private (sadly) 
+
+- Visdial Challenge 2018
+
+https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/18
+
+- Simple AMT
+
+https://github.com/jcjohnson/simple-amt/pull/30
+
+
+
