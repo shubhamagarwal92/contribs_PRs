@@ -55,6 +55,10 @@ https://github.com/PyTorchLightning/pytorch-lightning/pull/1128
 
 https://github.com/PyTorchLightning/pytorch-lightning/pull/1094
 
+- NLP-Progress by sebastianruder
+
+https://github.com/sebastianruder/NLP-progress/pull/443
+
 - data2text repo for Rotowire dataset
 
 https://github.com/ratishsp/data2text-1/pull/1
