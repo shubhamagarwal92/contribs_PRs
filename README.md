@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/shubhamagarwal92/contribs_PRs.svg)](http://hits.dwyl.io/shubhamagarwal92/contribs_PRs) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 # contribs_PRs
 Apart from my private and public repos, some PRs in the other projects
 
