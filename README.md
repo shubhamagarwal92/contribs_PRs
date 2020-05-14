@@ -20,7 +20,7 @@ Final PR: https://github.com/PecanProject/pecan/pull/1594
 
 - Alana - Alexa Challenge 2018
 
-All code private (sadly). Collaborators formed a company out of my contribs (https://alanaai.com/) 
+All code private. Resulted in a spin-off AlanaAI. (https://alanaai.com/) 
 
 - Visdial Challenge 2018
 
