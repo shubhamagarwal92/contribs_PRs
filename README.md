@@ -6,6 +6,8 @@ Apart from my private and public repos, some PRs in the other projects
 
 This started as an introspection of the open-source contribs that I did since 2017. Creating a list of PRs and contribs in nice projects:
 
+#### Merged
+
 - GSoC
 
 Link: https://github.com/shubhamagarwal92/pecan
@@ -30,16 +32,6 @@ https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/18
 
 https://github.com/jcjohnson/simple-amt/pull/30
 
-- Pythia Facebook PR
-
-https://github.com/facebookresearch/pythia/pull/57
-
-- Minecraft Facebook PR
-
-https://github.com/facebookresearch/craftassist/pull/19
-
-https://github.com/facebookresearch/craftassist/issues/17
-
 - Image Chat ParlAI Facebook PR
 
 https://github.com/facebookresearch/ParlAI/pull/2381
@@ -61,6 +53,17 @@ https://github.com/PyTorchLightning/pytorch-lightning/pull/1094
 - NLP-Progress by sebastianruder
 
 https://github.com/sebastianruder/NLP-progress/pull/443
+
+- Pythia Facebook PR
+
+https://github.com/facebookresearch/pythia/pull/57
+
+#### Open 
+- Minecraft Facebook PR
+
+https://github.com/facebookresearch/craftassist/pull/19
+
+https://github.com/facebookresearch/craftassist/issues/17
 
 - data2text repo for Rotowire dataset
 
