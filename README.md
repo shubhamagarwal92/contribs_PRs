@@ -28,6 +28,8 @@ All code private. Resulted in a spin-off AlanaAI. (https://alanaai.com/)
 
 https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/18
 
+https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/34
+
 - Simple AMT
 
 https://github.com/jcjohnson/simple-amt/pull/30
