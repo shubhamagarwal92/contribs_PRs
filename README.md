@@ -8,22 +8,6 @@ This started as an introspection of the open-source contribs that I did since 20
 
 #### Merged
 
-- GSoC
-
-Link: https://github.com/shubhamagarwal92/pecan
-
-Medium: https://medium.com/@shubhamagarwal92/google-summer-of-code-2017-pecan-daa2fd11755a
-
-Commit history: https://docs.google.com/spreadsheets/d/13n9lQ_xH-jH_YrQU1EGM7rFtsb6AeUSfp4EfgtHCKjM/edit#gid=0
-
-Last commit: https://github.com/shubhamagarwal92/pecan/commit/fbc8a25eef2dde5b873555df6a638babb7d6f869
-
-Final PR: https://github.com/PecanProject/pecan/pull/1594
-
-- Alana - Alexa Challenge 2018
-
-All code private. Resulted in a spin-off AlanaAI. (https://alanaai.com/) 
-
 - Visdial Challenge 2018
 
 https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/18
@@ -55,6 +39,22 @@ https://github.com/PyTorchLightning/pytorch-lightning/pull/1094
 - NLP-Progress by sebastianruder
 
 https://github.com/sebastianruder/NLP-progress/pull/443
+
+- GSoC
+
+Link: https://github.com/shubhamagarwal92/pecan
+
+Medium: https://medium.com/@shubhamagarwal92/google-summer-of-code-2017-pecan-daa2fd11755a
+
+Commit history: https://docs.google.com/spreadsheets/d/13n9lQ_xH-jH_YrQU1EGM7rFtsb6AeUSfp4EfgtHCKjM/edit#gid=0
+
+Last commit: https://github.com/shubhamagarwal92/pecan/commit/fbc8a25eef2dde5b873555df6a638babb7d6f869
+
+Final PR: https://github.com/PecanProject/pecan/pull/1594
+
+- Alana - Alexa Challenge 2018
+
+All code private. Resulted in a spin-off AlanaAI. (https://alanaai.com/) 
 
 - Pythia Facebook PR
 
