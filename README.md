@@ -10,34 +10,42 @@ This started as an introspection of the open-source contribs that I did since 20
 
 - Visdial Challenge 2018
 
+Code Speedup - related to empty cache 
 https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/18
 
+Improving slow tokenization
 https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch/pull/34
 
 - Simple AMT
 
+Setting default region to us-east-1
 https://github.com/jcjohnson/simple-amt/pull/30
 
 - Image Chat ParlAI Facebook PR
 
+Streamline image chat setup
 https://github.com/facebookresearch/ParlAI/pull/2381
 
 - Transformers repo PR
 
+Fixing NER - pl example on transformers repo
 https://github.com/huggingface/transformers/pull/3180
 
 - Nvidia-CO2 wrapper
 
+Bug fix for pacakge
 https://github.com/kylemcdonald/nvidia-co2/pull/4/
 
 - PyTorchLightning
 
+Set up GPU device to avoid memory leak
 https://github.com/PyTorchLightning/pytorch-lightning/pull/1128
 
 https://github.com/PyTorchLightning/pytorch-lightning/pull/1094
 
 - NLP-Progress by sebastianruder
 
+Different VQA datasets
 https://github.com/sebastianruder/NLP-progress/pull/443
 
 - GSoC
